@@ -9,12 +9,5 @@ public class Test {
         }
     }
 
-    public void test(){
-        System.out.println("你push吧");
-        System.out.println("我修改了，没想到吧");
-    }
 
-    public void mine(){
-
-    }
 }
