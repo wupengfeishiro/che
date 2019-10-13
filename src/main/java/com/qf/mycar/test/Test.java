@@ -9,6 +9,9 @@ public class Test {
         }
     }
 
+    public void buguanle(){
+        System.out.println("不管了");
+    }
 
     public void mine(){
 
