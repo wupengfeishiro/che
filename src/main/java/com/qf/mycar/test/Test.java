@@ -14,7 +14,7 @@ public class Test {
     }
 
     public void mine(){
-
+        System.out.println("mine");
     }
 
     public void notMine(){
