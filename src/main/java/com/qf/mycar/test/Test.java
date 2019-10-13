@@ -12,6 +12,7 @@ public class Test {
     public void buguanle(){
         System.out.println("不管了");
         System.out.println("休息去了");
+        System.out.println("不行，你得管");
     }
 
     public void mine(){
