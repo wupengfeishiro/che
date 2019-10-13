@@ -10,4 +10,11 @@ public class Test {
     }
 
 
+    public void mine(){
+
+    }
+
+    public void notMine(){
+
+    }
 }
