@@ -10,6 +10,6 @@ public class Test {
     }
 
     public void test(){
-
+        System.out.println("你push吧");
     }
 }
